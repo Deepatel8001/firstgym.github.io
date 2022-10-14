@@ -1,0 +1,27 @@
+/* css Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*css variable */
+:root{
+    --nabar-heigth: 59px;
+}
+
+/* navigation bar*/
+#navbar{
+    display: flexbox;
+    align-items: center;
+}
+
+/* navigation bar : LOGA and image*/
+#logo{
+    margin: 10px 35px;
+}
+#loga img{
+    margin: 34px 45px;
+}
+/* navigation bar : list styling */
+
+

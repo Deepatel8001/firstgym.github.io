@@ -1,0 +1,24 @@
+create table student_detail
+(enrollment_no number(12),
+sname varchar2(20),
+contact_no number(10)
+);
+
+
+//-----enter------//
+
+
+desc student_detail;
+
+
+
+
+//--------enter-//
+create table customer
+(acc_no varchar2(12),
+cname varchar2(20),
+contact_no number(10),
+branch varchar2(17),
+amount number(10,2)
+);
+
